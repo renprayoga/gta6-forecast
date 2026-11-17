@@ -86,4 +86,3 @@ about 0.05 s per case, far inside the 8 s cap.
 - `main.py` — the whole forecaster, single file
 - `LICENSE` — MIT
 - `.makefun/owner.json` — claim wallet
-- `BUILD_LOG.md` — build notes and validation numbers
